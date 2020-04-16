@@ -6,3 +6,4 @@ During the course we constructed a fully functioning prototype of a Sous Vide *(
 
 Below is a model of the circuit diagram that was used in the final version of the prototype
 
+![Alt text](A8K7EV6.png "Title")
