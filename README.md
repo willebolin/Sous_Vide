@@ -11,7 +11,7 @@ Below is a model of the circuit diagram that was used in the final version of th
 
 The project was very successfull and the prototype was fully functioning according to our initial specs and plan. Below is an image of the finalized prototype.  
 
-![Alt text](prototype.png "final prototype")
+![Alt text](Prototype.png "final prototype")
 
 
 
