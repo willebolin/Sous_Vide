@@ -1,4 +1,4 @@
-Sous Vide Project
+# Sous Vide Project
 
 This Repository cotains the project "Sous Vide Destruktus" made for EITF11 at **Lund University** (Faculty of Engineering) by me (Wilhelm Bolin), Hugo Tedroff and Nils Johansson
 
