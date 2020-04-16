@@ -15,4 +15,4 @@ The project was very successfull and the prototype was fully functioning accordi
 
 
 
-This project has been migrated to Github at a later time and all code has therefore been put in one document called code(final). 
+This project has been migrated to Github at a later time and all code has therefore been put in one document called code.C 
