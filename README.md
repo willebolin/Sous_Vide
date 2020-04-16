@@ -1,4 +1,4 @@
-:electric_plug: <h1> Sous Vide Project <h1> :electric_plug:
+<h1> Sous Vide Project <h1>
 
 This Repository cotains the project "Sous Vide Destruktus" made for EITF11 at **Lund University** (Faculty of Engineering) by me (Wilhelm Bolin), Hugo Tedroff and Nils Johansson
 
